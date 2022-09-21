@@ -2,7 +2,7 @@
 title: Computer and Digital Forensics
 email: ""
 description: "Computer and Digital Forensics at Champlain College"
-url: "https://www.ccdfir.com"
+url: "https://ccdfir.github.io"
 baseurl: "/website"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://www.ccdfir.com/website/gallery/"  
-  - JOURNAL: "https://www.ccdfir.com/website/journal/"
-  - ABOUT: "https://www.ccdfir.com/website/about/"
+  - GALLERY: "https://ccdfir.github.io/website/gallery/"  
+  - JOURNAL: "https://ccdfir.github.io/website/journal/"
+  - ABOUT: "https://ccdfir.github.io/website/about/"
 
 # All translation keys
 translations:
