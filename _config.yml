@@ -1,9 +1,9 @@
 # Site settings
 title: PHOTORAMA
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Computer and Digital Forensics at Champlain College"
+url: "https://www.ccdfir.com"
+baseurl: "/website"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   CCDFIR
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: CCDFIR
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://www.ccdfir.com/website/gallery/"  
+  - JOURNAL: "https://www.ccdfir.com/website/journal/"
+  - ABOUT: "https://www.ccdfir.com/website/about/"
 
 # All translation keys
 translations:
