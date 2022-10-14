@@ -4,7 +4,7 @@ title:      "Counterfeit Mobile Forensics"
 subtitle:   "Kaya Overholtzer"
 active: journal
 image:
-  feature: "pc001.jpg"
+  feature: "pckaya.jpg"
 date:       2022-05-01
 header-img: "img/postcover/pckaya.jpg"
 tags: [mobile, dfir, forensics, investigations, counterfeit]
