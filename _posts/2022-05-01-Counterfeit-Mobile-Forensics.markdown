@@ -6,7 +6,7 @@ active: journal
 image:
   feature: "pc001.jpg"
 date:       2022-05-01
-header-img: "img/postcover/pc001.jpg"
+header-img: "img/postcover/pckaya.jpg"
 tags: [mobile, dfir, forensics, investigations, counterfeit]
 categories: [capstone, project]
 comments: false
