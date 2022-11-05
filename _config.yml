@@ -2,8 +2,8 @@
 title: Computer and Digital Forensics
 email: ""
 description: "Computer and Digital Forensics at Champlain College"
-url: "https://www.ccdfir.com"
-baseurl: "/"
+url: "https://Adam-Hachem.github.io"
+baseurl: "/website"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://ccdfir.github.io/website/gallery/"  
-  - JOURNAL: "https://ccdfir.github.io/website/journal/"
-  - ABOUT: "https://ccdfir.github.io/website/about/"
+  - GALLERY: "https://Adam-Hachem.github.io/website/gallery/"  
+  - JOURNAL: "https://Adam-Hachem.github.io/website/journal/"
+  - ABOUT: "https://Adam-Hachem.github.io/website/about/"
 
 # All translation keys
 translations:
