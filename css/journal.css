@@ -127,7 +127,7 @@
 .blockGroup-list .postArticle-wrapper
 {
     position: relative;
-    background: #000;
+    background: linear-gradient(103deg, rgb(0, 102, 136) 0%, rgb(0 59 102) 74%);
     width: 100%;
     -webkit-box-shadow: 4px 4px 4px 4px rgba(255, 255, 255, 0);
     box-shadow: 4px 4px 4px 4px rgba(255, 255, 255, 0);
